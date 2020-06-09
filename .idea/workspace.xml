@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78552ae6-a94b-4fd7-86d1-327313ba97ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1d2QcfFaBt1j7NLAZ6B4qo2Vm6s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pikachu" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78552ae6-a94b-4fd7-86d1-327313ba97ae" name="Default Changelist" comment="" />
+      <created>1591620788704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591620788704</updated>
+      <workItem from="1591620791178" duration="7049000" />
+      <workItem from="1591654899287" duration="5808000" />
+      <workItem from="1591705821543" duration="768000" />
+      <workItem from="1591706737154" duration="1930000" />
+      <workItem from="1591710928478" duration="3796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="661" y="169" key="FileChooserDialogImpl" timestamp="1591703691591">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="661" y="169" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1591703691591" />
+  </component>
+</project>
